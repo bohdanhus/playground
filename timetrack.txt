@@ -1,0 +1,22 @@
+
+Collect data from 08.07.2023 to 07.06.2024 (today) activity in exports data
+EPIC #1 Instagram
+    -likes, comments, saved posts
+    -login/logouts,
+    -direct messages, comments
+    -followers, following
+EPIC #2 Telegram
+    -frequent calls
+    -frequent chats
+    -chats
+    -contacts
+EPIC #3 Google
+    -search and view history
+    -devices and accounts
+    -Youtube search and history
+    -GMail
+    -Maps
+
+- Compare subscription lists.
+- Compare contact lists.
+- Generate a table of all actions from March 8, 2024, to May 21, 2024.
