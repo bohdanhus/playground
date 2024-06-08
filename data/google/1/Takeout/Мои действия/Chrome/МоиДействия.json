@@ -1,0 +1,657 @@
+[{
+  "header": "Chrome",
+  "title": "Посещена страница Способы восстановления доступа к аккаунту",
+  "titleUrl": "https://myaccount.google.com/signinoptions/recoveryoptions?opendialog\u003dcollectemail\u0026roc\u003dfalse\u0026rapt\u003dAEjHL4M_RXm05CBCeYBthjdBI4wYzRR7I1xzwmvlRYsmPktXDgKZZyb_smMLMlolv55T2qnkcZx2_0Dfz4CQlL1xzhVc-kql5h9OItK6WbB_nBfCyxMlk2w\u0026utm_source\u003dgoogle-account\u0026utm_medium\u003dweb\u0026utm_campaign\u003dcombinedrecoveryoptions-screen\u0026continue\u003dhttps://myaccount.google.com/?tab%3Dkk",
+  "time": "2024-05-27T11:22:34.430Z",
+  "products": ["Chrome"]
+},{
+  "header": "accounts.google.com",
+  "title": "Посещена страница Вход – Google Аккаунты",
+  "titleUrl": "https://accounts.google.com/v3/signin/challenge/pwd?TL\u003dALv_Gf-m5P8uTzGdkaGjvVL7J_GPgBWNIWMg-mnQicE9TBNhxCHr21DCXTWD3FD7\u0026cid\u003d2\u0026continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Frecoveryoptions%3Fopendialog%3Dcollectemail%26roc%3Dfalse%26rapt%26utm_source%3Dgoogle-account%26utm_medium%3Dweb%26utm_campaign%3Dcombinedrecoveryoptions-screen%26continue%3Dhttps%3A%2F%2Fmyaccount.google.com%2F%3Ftab%253Dkk\u0026flowName\u003dGlifWebSignIn\u0026followup\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Frecoveryoptions%3Fopendialog%3Dcollectemail%26roc%3Dfalse%26rapt%26utm_source%3Dgoogle-account%26utm_medium%3Dweb%26utm_campaign%3Dcombinedrecoveryoptions-screen%26continue%3Dhttps%3A%2F%2Fmyaccount.google.com%2F%3Ftab%253Dkk\u0026ifkv\u003dAaSxoQy2u4HUZ0DW_ePQr0gcCV10x__UNbR1z1o7ultooJ49t-vgeO0ZhaHaxmXCMHtEBJ5hkgyKxg\u0026osid\u003d1\u0026rart\u003dANgoxccvLtL1NWA1B9sIBi3H_g6lpRdIFCOYU3Ze6eJQgB6p4bdz5YGmV7utIM0NEqhb2qOjXLGEcd6mRhwJcBB-m0YBkSS55TzaKpv57I7g6HyoVBCJUcs\u0026rpbg\u003d1\u0026service\u003daccountsettings",
+  "time": "2024-05-27T11:22:20.826Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Аккаунт Google",
+  "titleUrl": "https://myaccount.google.com/?tab\u003dkk",
+  "time": "2024-05-27T11:22:14.040Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Недавние действия, связанные с безопасностью аккаунта",
+  "titleUrl": "https://myaccount.google.com/u/0/notifications/eid/-734260617932556489?hl\u003dru\u0026origin\u003d5\u0026continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fu%2F0%2Fnotifications%3Forigin%3D3%26hl%3Dru",
+  "time": "2024-05-27T11:22:03.178Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Недавние действия, связанные с безопасностью аккаунта",
+  "titleUrl": "https://myaccount.google.com/u/0/notifications?origin\u003d3\u0026hl\u003dru",
+  "time": "2024-05-27T11:21:57.505Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Безопасность",
+  "titleUrl": "https://myaccount.google.com/u/0/security?hl\u003dru",
+  "time": "2024-05-27T11:21:49.587Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Настройки доступа",
+  "titleUrl": "https://myaccount.google.com/u/0/people-and-sharing?hl\u003dru",
+  "time": "2024-05-27T11:21:33.224Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Входящие (2 667) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#inbox",
+  "time": "2024-05-27T11:21:22.978Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Сведения о контактах с ваших устройств",
+  "titleUrl": "https://myactivity.google.com/devicecontacts?hl\u003dru\u0026continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fu%2F0%2Fpeople-and-sharing%3Fhl%3Dru",
+  "time": "2024-05-27T11:21:14.481Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Аккаунт Google",
+  "titleUrl": "https://myaccount.google.com/u/0/?hl\u003dru",
+  "time": "2024-05-27T11:20:58.723Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/accounts",
+  "time": "2024-05-27T11:20:49.574Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/filters",
+  "time": "2024-05-27T11:20:43.317Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/addons",
+  "time": "2024-05-27T11:20:21.450Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/chat",
+  "time": "2024-05-27T11:20:19.369Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/offline",
+  "time": "2024-05-27T11:20:18.174Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/advanced",
+  "time": "2024-05-27T11:20:11.419Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Результаты поиска - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/no-reply%40accounts.google.com",
+  "time": "2024-05-27T11:20:00.156Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Мы обновляем Условия использования - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/no-reply%40accounts.google.com/FMfcgzGxStqXcHfqBPdTFbtGPhqMwbzh",
+  "time": "2024-05-27T11:19:54.534Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Результаты поиска - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/no-reply%40accounts.google.com?compose\u003dnew",
+  "time": "2024-05-27T11:19:48.609Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Мы обновляем Условия использования - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/from%3A(no-reply%40accounts.google.com)/FMfcgzGxStqXcHfqBPdTFbtGPhqMwbzh",
+  "time": "2024-05-27T11:19:20.381Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Результаты поиска - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#create-filter/from\u003dno-reply%40accounts.google.com\u0026sizeoperator\u003ds_sl\u0026sizeunit\u003ds_smb",
+  "time": "2024-05-27T11:19:16.246Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Мы обновляем Условия использования - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/google%22/FMfcgzGxStqXcHfqBPdTFbtGPhqMwbzh",
+  "time": "2024-05-27T11:19:02.338Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Результаты поиска - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#search/google",
+  "time": "2024-05-27T11:18:45.903Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Входящие (2 667) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#inbox",
+  "time": "2024-05-27T11:18:39.103Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/inbox",
+  "time": "2024-05-27T11:17:37.123Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/labels",
+  "time": "2024-05-27T11:17:36.320Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Настройки - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#settings/general",
+  "time": "2024-05-27T11:17:16.123Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/myactivity?hl\u003dru\u0026utm_source\u003dgoogle-account\u0026utm_medium\u003dweb",
+  "time": "2024-05-27T11:17:01.347Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница Проверка настроек конфиденциальности",
+  "titleUrl": "https://myaccount.google.com/privacycheckup/0/1?continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy%3Fhl%3Dru%26authuser%3D0%26utm_source%3DOGB%26utm_medium%3Dact",
+  "time": "2024-05-27T11:16:57.670Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Данные и конфиденциальность",
+  "titleUrl": "https://myaccount.google.com/data-and-privacy?hl\u003dru\u0026authuser\u003d0\u0026utm_source\u003dOGB\u0026utm_medium\u003dact",
+  "time": "2024-05-27T11:16:54.316Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Аккаунт Google",
+  "titleUrl": "https://myaccount.google.com/?hl\u003dru\u0026utm_source\u003dOGB\u0026utm_medium\u003dact\u0026pli\u003d1\u0026authuser\u003d0",
+  "time": "2024-05-27T11:16:52.337Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Оповещения (2 230) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#category/updates",
+  "time": "2024-05-27T11:15:52.660Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Корзина - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#trash",
+  "time": "2024-05-27T11:15:45.203Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Спам (6) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#spam",
+  "time": "2024-05-27T11:15:43.944Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Мы обновляем Условия использования - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all/FMfcgzGxStqXcHfqBPdTFbtGPhqMwbzh",
+  "time": "2024-05-27T11:13:37.937Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all/p5",
+  "time": "2024-05-27T11:13:24.739Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all/p4",
+  "time": "2024-05-27T11:13:06.481Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all/p3",
+  "time": "2024-05-27T11:13:00.107Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all/p2",
+  "time": "2024-05-27T11:12:52.342Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#all",
+  "time": "2024-05-27T11:12:34.304Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Добро пожаловать в семейную группу - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#search/google+/FMfcgzGwHftxFHGZFJcpHxxQvmPFJjWT",
+  "time": "2024-05-27T11:12:19.038Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Результаты поиска - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#search/google",
+  "time": "2024-05-27T11:12:12.967Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Электронные письма от Google",
+  "titleUrl": "https://myaccount.google.com/communication-preferences?utm_source\u003dga_personal\u0026utm_medium\u003dweb\u0026continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2Fpersonal-info%3Futm_source%3Dchrome-settings",
+  "time": "2024-05-27T11:11:45.415Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Личная информация",
+  "titleUrl": "https://myaccount.google.com/personal-info?utm_source\u003dchrome-settings",
+  "time": "2024-05-27T11:11:38.077Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Аккаунт Google",
+  "titleUrl": "https://myaccount.google.com/?utm_source\u003dchrome-settings",
+  "time": "2024-05-27T11:11:35.738Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Настройки",
+  "titleUrl": "https://myaccount.google.com/connections/settings?continue\u003dhttps%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Dru%26utm_source%3DOGB%26utm_medium%3Dact%26pli%3D1\u0026hl\u003dru\u0026utm_source\u003dOGB\u0026utm_medium\u003dact",
+  "time": "2024-05-27T11:09:48.366Z",
+  "products": ["Chrome"]
+},{
+  "header": "myaccount.google.com",
+  "title": "Посещена страница Аккаунт Google",
+  "titleUrl": "https://myaccount.google.com/?hl\u003dru\u0026utm_source\u003dOGB\u0026utm_medium\u003dact\u0026pli\u003d1",
+  "time": "2024-05-27T11:09:48.361Z",
+  "products": ["Chrome"]
+},{
+  "header": "takeout.google.com",
+  "title": "Посещена страница Google Архиватор",
+  "titleUrl": "https://takeout.google.com/settings/takeout/custom/my_activity?continue\u003dhttps://myactivity.google.com/more-activity?continue%3Dhttps%253A%252F%252Fmyactivity.google.com%252Factivitycontrols%252Fwebandapp%253Fhl%253Dru%2526utm_source%253Dmy-activity%2526utm_medium%253Dweb%2526pli%253D1%26restrict%3Dwaa%26hl%3Dru%26utm_source%3Dmy-activity%26utm_medium%3Dweb\u0026hl\u003dru\u0026pli\u003d1",
+  "time": "2024-05-27T11:08:41.711Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/more-activity?continue\u003dhttps%3A%2F%2Fmyactivity.google.com%2Factivitycontrols%2Fwebandapp%3Fhl%3Dru%26utm_source%3Dmy-activity%26utm_medium%3Dweb%26pli%3D1\u0026restrict\u003dwaa\u0026hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb",
+  "time": "2024-05-27T11:07:34.265Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Новое сообщение - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#inbox/FMfcgzGxTPHKMshKrkQSWbmncJcjdgKr",
+  "time": "2024-05-27T11:06:39.134Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Черновики (2) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?pli\u003d1#drafts",
+  "time": "2024-05-27T11:06:36.100Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/activitycontrols/webandapp?hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb\u0026pli\u003d1",
+  "time": "2024-05-27T11:06:28.869Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/activitycontrols/webandapp?hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb\u0026pli\u003d1",
+  "time": "2024-05-27T07:53:30.280Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/activitycontrols/webandapp?hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb\u0026pli\u003d1",
+  "time": "2024-05-27T07:17:37.737Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Корзина - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#trash",
+  "time": "2024-05-27T06:57:03.942Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Спам (6) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#spam",
+  "time": "2024-05-27T06:57:00.742Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#all/p2",
+  "time": "2024-05-27T06:56:34.580Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#all",
+  "time": "2024-05-27T06:56:11.801Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вигідні пропозиції твоєму районі: 📍💸I love kebab / Я люблю кебаб з [promo] та багато іншого - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#all/FMfcgzGxTPHJkgfksHxpzlmFkcCkzwhW",
+  "time": "2024-05-27T06:55:58.063Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/activitycontrols/webandapp?hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb\u0026pli\u003d1",
+  "time": "2024-05-27T05:59:14.017Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Входящие (2 667) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/#inbox",
+  "time": "2024-05-27T05:58:55.658Z",
+  "products": ["Chrome"]
+},{
+  "header": "myactivity.google.com",
+  "title": "Посещена страница Google – Мои действия",
+  "titleUrl": "https://myactivity.google.com/activitycontrols/webandapp?hl\u003dru\u0026utm_source\u003dmy-activity\u0026utm_medium\u003dweb\u0026pli\u003d1",
+  "time": "2024-05-27T00:03:18.708Z",
+  "products": ["Chrome"]
+},{
+  "header": "claude.ai",
+  "title": "Посещена страница Claude",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://claude.ai/login%3FreturnTo%3D%252F\u0026usg\u003dAOvVaw3ZBB2bLYaLK1r95x8iqW2z",
+  "time": "2024-04-11T16:25:51.856Z",
+  "products": ["Chrome"]
+},{
+  "header": "claude.ai",
+  "title": "Посещена страница Claude",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://claude.ai/\u0026usg\u003dAOvVaw2ileeDBsUQJX_UaXPt-koR",
+  "time": "2024-04-11T16:25:50.912Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница клод чат - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003d%D0%BA%D0%BB%D0%BE%D0%B4+%D1%87%D0%B0%D1%82\u0026sca_esv\u003dfd299e0f5b2672c9\u0026sxsrf\u003dACQVn09KhUyOrd2mrAXd2SlQDccxbLffuw%3A1712852740833\u0026ei\u003dBA8YZrKzMt397_UP0e-wwAM\u0026udm\u003d\u0026ved\u003d0ahUKEwiyxa3ZybqFAxXd_rsIHdE3DDgQ4dUDCBA\u0026uact\u003d5\u0026oq\u003d%D0%BA%D0%BB%D0%BE%D0%B4+%D1%87%D0%B0%D1%82\u0026gs_lp\u003dEgxnd3Mtd2l6LXNlcnAiD9C60LvQvtC0INGH0LDRgjIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IhxZQkANY_A5wAXgBkAEAmAGVAaAB5gOqAQMwLjS4AQPIAQD4AQGYAgWgArkEwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAg4QABjkAhjWBBiwA9gBAcICExAuGIAEGIoFGEMYyAMYsAPYAQLCAgoQLhiABBiKBRhDwgIKEC4YQxiABBiKBcICChAAGIAEGIoFGEPCAhAQLhiABBiKBRhDGMcBGK8BwgIZEC4YgAQYigUYQxiXBRjcBBjeBBjfBNgBA8ICBxAAGIAEGArCAggQABgWGB4YD5gDAIgGAZAGE7oGBggBEAEYCboGBggCEAEYCLoGBggDEAEYFJIHAzEuNKAH7EA\u0026sclient\u003dgws-wiz-serp",
+  "time": "2024-04-11T16:25:45.385Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница клод - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003d%D0%BA%D0%BB%D0%BE%D0%B4\u0026oq\u003d%D0%BA%D0%BB%D0%BE%D0%B4\u0026aqs\u003dchrome..69i57j0i512j46i512j0i512l3j46i512j0i512l3.4851j0j7\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8",
+  "time": "2024-04-11T16:25:40.528Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Использовался Chrome",
+  "time": "2024-04-11T16:25:32.174Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница about:blank#blocked",
+  "titleUrl": "https://www.google.com/url?q\u003dabout:blank%23blocked\u0026usg\u003dAOvVaw2XGtDIqcgHibSEbrUQSiaA",
+  "time": "2024-04-08T14:25:41.617Z",
+  "products": ["Chrome"]
+},{
+  "header": "filmitorrent.site",
+  "title": "Посещена страница Проект X Дорвались скачать торрент в хорошем качестве бесплатно HDRip, BDRip",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://filmitorrent.site/komedia/1792-proekt-x-dorvalis-projectx-2012.html\u0026usg\u003dAOvVaw3zyRVrXEuJ1rZWyeT8j-lB",
+  "time": "2024-04-08T14:25:28.088Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница about:blank#blocked",
+  "titleUrl": "https://www.google.com/url?q\u003dabout:blank%23blocked\u0026usg\u003dAOvVaw2XGtDIqcgHibSEbrUQSiaA",
+  "time": "2024-04-06T16:10:14.773Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Использовался Chrome",
+  "time": "2024-04-06T16:08:58.827Z",
+  "products": ["Chrome"]
+},{
+  "header": "filmitorrent.site",
+  "title": "Посещена страница Проект X Дорвались скачать торрент в хорошем качестве бесплатно HDRip, BDRip",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://filmitorrent.site/komedia/1792-proekt-x-dorvalis-projectx-2012.html\u0026usg\u003dAOvVaw3zyRVrXEuJ1rZWyeT8j-lB",
+  "time": "2024-04-06T16:02:42.874Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница проект х скачать bluray - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003d%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82+%D1%85+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+bluray\u0026sca_esv\u003db2f01f239ded54f9\u0026sxsrf\u003dACQVn081n5iBbKsq3zpnkh_9r9DImUvfFg%3A1712419341988\u0026ei\u003dDXIRZvz8O6SuwPAPl7yawA4\u0026udm\u003d\u0026oq\u003d%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82+%D1%85+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B8%D0%B4%D0%B3%D0%BA\u0026gs_lp\u003dEgxnd3Mtd2l6LXNlcnAiJ9C_0YDQvtC10LrRgiDRhSDRgdC60LDRh9Cw0YLRjCDQuNC00LPQuioCCAAyBxAhGAoYoAEyBxAhGAoYoAFI-jBQkgNYkyVwBXgBkAEAmAFyoAG3BaoBAzUuMrgBA8gBAPgBAZgCDKAC9QXCAgoQABhHGNYEGLADwgINEC4YQxiABBiKBRiwA8ICDRAAGIAEGIoFGEMYsAPCAgUQABiABMICBhAAGBYYHsICCBAAGBYYHhgPwgIFECEYoAHCAgUQIRifBZgDAIgGAZAGCpIHAzkuM6AHxiA\u0026sclient\u003dgws-wiz-serp",
+  "time": "2024-04-06T16:02:37.093Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница проект х скачать - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003d%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82+%D1%85+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C\u0026oq\u003d%D0%BF%D1%80%D0%BE%D0%BD%D0%B5%D1%82+%D1%85+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D0%B8%D1%82\u0026aqs\u003dchrome.1.69i57j0i13i512l4j0i22i30l5.13183j0j7\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8",
+  "time": "2024-04-06T16:02:22.337Z",
+  "products": ["Chrome"]
+},{
+  "header": "uakino.club",
+  "title": "Посещена страница Фільм Їжак Сонік (2020) онлайн українською мовою в HD",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://uakino.club/filmy/10442-yizhak-sonk.html\u0026usg\u003dAOvVaw3qNq0ctwojbi9BPC61b43E",
+  "time": "2024-03-29T18:03:05.127Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница сонік - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?gs_ssp\u003deJzj4tVP1zc0TDMzyk0qNDI1YPTiuth4Yd-FvRenXdgFAHxmC5c\u0026q\u003d%D1%81%D0%BE%D0%BD%D1%96%D0%BA\u0026oq\u003d%D1%81%D0%BE%D0%BD%D1%96%D0%BA\u0026aqs\u003dchrome.1.0i355i512i543j46i340i512l2j46i512l2j0i512j46i512j0i512j46i512j0i512.6563j0j15\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8",
+  "time": "2024-03-29T18:03:01.012Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Использовался Chrome",
+  "time": "2024-03-29T18:02:42.483Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) Як Чернігівщина та Черкащина справляються зі стихією. Світ навиворіт. Україна. 4 випуск - YouTube",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dyEMkj5DStlU\u0026t\u003d1126s",
+  "time": "2024-03-29T18:02:33.120Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) Як Чернігівщина та Черкащина справляються зі стихією. Світ навиворіт. Україна. 4 випуск - YouTube",
+  "titleUrl": "https://www.youtube.com/watch?v\u003dyEMkj5DStlU\u0026t\u003d1126s",
+  "time": "2024-03-27T20:00:43.962Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) YouTube",
+  "titleUrl": "https://www.youtube.com/feed/history",
+  "time": "2024-03-27T20:00:27.863Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) Понравившиеся - YouTube",
+  "titleUrl": "https://www.youtube.com/playlist?list\u003dLL",
+  "time": "2024-03-27T19:59:38.131Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) Макс Корж - Оптимист (official video) - YouTube",
+  "titleUrl": "https://www.youtube.com/watch?v\u003d48StRIVxK7A\u0026list\u003dPL6H6TfFpYvpeW3Jwivq1icxW6kRjXOCgj\u0026index\u003d52",
+  "time": "2024-03-27T19:59:38.096Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Использовался Chrome",
+  "time": "2024-03-27T19:59:05.463Z",
+  "products": ["Chrome"]
+},{
+  "header": "youtube.com",
+  "title": "Посещена страница (6) YouTube",
+  "titleUrl": "https://www.youtube.com/",
+  "time": "2024-03-27T19:46:55.046Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/c/32a2cd47-cfb8-4477-b7c2-f3a82725a2a1\u0026usg\u003dAOvVaw184kxgCSGtNw9MpEt05YuP",
+  "time": "2024-03-27T19:27:25.390Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/\u0026usg\u003dAOvVaw0RM0iQTs62n59a7IZIBUfp",
+  "time": "2024-03-27T19:26:39.302Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/c/ccb73f88-2ea8-4738-ba40-5f3abf372f74\u0026usg\u003dAOvVaw3Gu5z9ZBX__y05O17YuPQH",
+  "time": "2024-03-27T19:24:35.239Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/c/95b09c64-1be8-44a5-ba02-839220f00382\u0026usg\u003dAOvVaw2MBeEB8RoAtFpljSLr4g8O",
+  "time": "2024-03-27T19:15:35.462Z",
+  "products": ["Chrome"]
+},{
+  "header": "docs.google.com",
+  "title": "Посещена страница timetrack_28_03_2024 - Google Документы",
+  "titleUrl": "https://docs.google.com/document/d/11ud9ZjmC_H8V7P-NTgV4aFTKGSqXRUgDQEI257N9GsM/edit?hl\u003dru\u0026pli\u003d1",
+  "time": "2024-03-27T18:20:14.010Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница docs - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003ddocs\u0026sca_esv\u003df35a62b2f11118f0\u0026sxsrf\u003dACQVn08Nv3246SLyIdMOTuWmqjlJL2iJdQ%3A1711563597728\u0026source\u003dhp\u0026ei\u003dTWMEZurDKYaB9u8P4OG9qAk\u0026iflsig\u003dANes7DEAAAAAZgRxXTPb93Y0J9tfi3mf46-YWCILoKMl\u0026udm\u003d\u0026ved\u003d0ahUKEwiqnoCih5WFAxWGgP0HHeBwD5UQ4dUDCBU\u0026uact\u003d5\u0026oq\u003ddocs\u0026gs_lp\u003dEgdnd3Mtd2l6IgRkb2NzMgoQIxiABBiKBRgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOoDUABY4QNwAHgAkAEAmAFooAFoqgEDMC4xuAEDyAEA-AEBmAIBoAJ_mAMAkgcDMC4xoAemBQ\u0026sclient\u003dgws-wiz",
+  "time": "2024-03-27T18:20:01.797Z",
+  "products": ["Chrome"]
+},{
+  "header": "google.com",
+  "title": "Посещена страница Google",
+  "titleUrl": "https://www.google.com/",
+  "time": "2024-03-27T18:19:57.531Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Входящие (2 491) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#inbox",
+  "time": "2024-03-27T18:18:38.367Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Помеченные - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#starred",
+  "time": "2024-03-27T18:18:37.850Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Отложенные - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#snoozed",
+  "time": "2024-03-27T18:18:36.423Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Черновики (1) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#drafts",
+  "time": "2024-03-27T18:18:36.294Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Отправленные - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#sent",
+  "time": "2024-03-27T18:18:28.260Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Вся почта - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#all",
+  "time": "2024-03-27T18:18:07.889Z",
+  "products": ["Chrome"]
+},{
+  "header": "mail.google.com",
+  "title": "Посещена страница Спам (3) - koval.iren0702@gmail.com - Gmail",
+  "titleUrl": "https://mail.google.com/mail/u/0/?ogbl#spam",
+  "time": "2024-03-27T18:16:38.122Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/\u0026usg\u003dAOvVaw0RM0iQTs62n59a7IZIBUfp",
+  "time": "2024-03-27T18:14:18.723Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/auth/ext_callback_refresh%3Fnext%3D%252F\u0026usg\u003dAOvVaw0x30t1gRS1BYBfbSHVmjje",
+  "time": "2024-03-27T18:14:02.425Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/auth/ext_callback%3Fnext%3D\u0026usg\u003dAOvVaw1XCLpsTzx4AbMl0kxFmlCg",
+  "time": "2024-03-27T18:13:59.375Z",
+  "products": ["Chrome"]
+},{
+  "header": "platform.openai.com",
+  "title": "Посещена страница OpenAI Platform",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://platform.openai.com/onboarding%3Fapp%3Dchat\u0026usg\u003dAOvVaw3WVjDM9RWzBQbzKA3gaNmk",
+  "time": "2024-03-27T18:12:46.740Z",
+  "products": ["Chrome"]
+},{
+  "header": "auth.openai.com",
+  "title": "Посещена страница OpenAI Login App",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://auth.openai.com/authorize%3Fclient_id%3DDRivsnm2Mu42T3KOpqdtwB3NYviHYzwD%26audience%3Dhttps%253A%252F%252Fapi.openai.com%252Fv1%26redirect_uri%3Dhttps%253A%252F%252Fplatform.openai.com%252Fauth%252Fcallback%26device_id%3D15801634-472e-407c-80e1-b5f172d1ebf6%26scope%3Dopenid%2520profile%2520email%2520offline_access%26response_type%3Dcode%26response_mode%3Dquery%26state%3DM2k2R1l4cFpMdkdWWVBfYkRlMWdEVnA1TVhZbzdqVklObHlSNHBKNW93RA%253D%253D%26nonce%3DMnN0MFk3RzY5RnlMZ004OH43dmd0OXBjaS1QTWg2VkNXcnVtS1B3Q2owQQ%253D%253D%26code_challenge%3DWvukF2vHRJ5ajiIY3EC3K29fM6GrqaW8JuxeZqSzAsU%26code_challenge_method%3DS256%26auth0Client%3DeyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMjEuMCJ9\u0026usg\u003dAOvVaw3r_obAQsI-Gvazb6Gwp9j1",
+  "time": "2024-03-27T18:12:38.859Z",
+  "products": ["Chrome"]
+},{
+  "header": "platform.openai.com",
+  "title": "Посещена страница OpenAI Platform",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://platform.openai.com/signup_ext%3Fapp%3Dchat\u0026usg\u003dAOvVaw2wvdEeytBnglESw-cbivER",
+  "time": "2024-03-27T18:12:35.200Z",
+  "products": ["Chrome"]
+},{
+  "header": "accounts.google.com",
+  "title": "Посещена страница Вход – Google Аккаунты",
+  "titleUrl": "https://accounts.google.com/signin/oauth/id?authuser\u003d0\u0026part\u003dAJi8hAPpn9VVcVbKVt24yz5tPE3VQd1EFSrRiZxRNR94Mz6s3A09_OJi3Y0iflTyrDR_BE0dJEJ6N2Iv3KHI8m5DoU4RffPS75GTKGNqOPsWpmOT6UELwMErNzzpjK7_gOE8cxThUY2W3MKVALBmwC-Ej9gkbo0gR3FFZHciocC-k3Jalp3TsMh_NYkLDpFtPNbxVgMdtE78gtIDi41oKfFumtA4UlxdBmkjvvePCgP_TSQEzqZpKXLOcbQ-Y0PdHoPt2BAXomur8R2Etd_pXqjpr4JIB_cIszYyMl32RyFSiTp6ICK9H5z2gxfoLP69JNOpryWDsiAUs7Ct0dbF8I94KJQU7710U9f0JnJaWuMYB8BydwBfX0UIdgXyfvO5JfqSPzX7L6h0Pri1ia2zSJUz7E8h4qVI_1pF4Nr8ulL6yR7gYYCK-bYerCqZK16FUtOcH4gtOAIhUMd42gdjQNIc70ifkdZThv1pVjBbaq9Grmq4KH0nvksGlSkGE-z6p5t2Fipjqv2VXkfkQYbTAlznRPHzM2gtz1FKMOqrwp75bPg8N-G4uS-KUZJLNp7CGxgJPS6FIOagr-mtlmEWiujkeaCu66L2VvsGwkPxhhNyD1tuOCDYO034J7pDvlkor7m0Ou566esdRj2Bw7bjeQLWmZgvQFhoLCXs74-pWBsMq6DD36zxpctlFUQg2A2hFFwZhPcIAuEoK3QGXIhCcSPFi2xHdAtE8I7YJd44k-xUzgNxLKpqWbtJd62MSMhLVU76IwyBrlj3KAvDRy7W_Fm-9b2RRH4jpVg4uHLQozN5qNRvnoQZu5LHkViFSJp_4tYCAAtbZsePffiTSMT26sbyj_y86lOoMSwswjrJ7tfOmWF0Eo2NE6S_Q0DKCEdzwdULFy9rq3hxTkU6cv5_sdkD2KX2BA4BXcoGnfCvizK7W_81ldQgU7ExIG-EM5FspxgbGj5McxlSyW2RchzpBaGA0UYU9WW6zHpXMIzRJh61VIQQONnKJEI\u0026flowName\u003dGeneralOAuthFlow\u0026as\u003dS-1374981876%3A1711563146943388\u0026client_id\u003d799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com\u0026rapt\u003dAEjHL4OITBfcSg_qO-AnM13W0DdTbei7xfSmoDEj7yX3XAUyJLIRUGpzfnkjqf_72wMRh98jOhssn0Zf0p-Si_ivxtEZd_ITIA\u0026theme\u003dmn#",
+  "time": "2024-03-27T18:12:31.055Z",
+  "products": ["Chrome"]
+},{
+  "header": "accounts.google.com",
+  "title": "Посещена страница Вход – Google Аккаунты",
+  "titleUrl": "https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?login_hint\u0026response_type\u003dcode\u0026redirect_uri\u003dhttps%3A%2F%2Fauth0.openai.com%2Flogin%2Fcallback\u0026scope\u003demail%20profile\u0026state\u003d_ioNacVnwupmwdbRcFkKtVuSh4VbkxcW\u0026client_id\u003d799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com\u0026service\u003dlso\u0026o2v\u003d1\u0026theme\u003dmn\u0026ddm\u003d0\u0026flowName\u003dGeneralOAuthFlow",
+  "time": "2024-03-27T18:12:27.545Z",
+  "products": ["Chrome"]
+},{
+  "header": "auth.openai.com",
+  "title": "Посещена страница OpenAI Login App",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://auth.openai.com/authorize%3Fclient_id%3DTdJIcbe16WoTHtN95nyywh5E4yOo6ItG%26scope%3Dopenid%2520email%2520profile%2520offline_access%2520model.request%2520model.read%2520organization.read%2520organization.write%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fchat.openai.com%252Fapi%252Fauth%252Fcallback%252Flogin-web%26audience%3Dhttps%253A%252F%252Fapi.openai.com%252Fv1%26device_id%3D15801634-472e-407c-80e1-b5f172d1ebf6%26prompt%3Dlogin%26screen_hint%3Dsignup%26state%3DzC2oVHEcV4t4Ofb-L9XMqe6TVoJyNO1wasP5DoQ9Q1Y%26code_challenge%3DgzR39iBuLj_AUBiR0s_4s5i0C5O0G7T8tuFf7Lxuiss%26code_challenge_method%3DS256\u0026usg\u003dAOvVaw0TOkepHpTefMoGDyCiQ8qg",
+  "time": "2024-03-27T18:12:15.961Z",
+  "products": ["Chrome"]
+},{
+  "header": "chat.openai.com",
+  "title": "Посещена страница ChatGPT",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://chat.openai.com/auth/login\u0026usg\u003dAOvVaw1slc9roD7KixvlrRTic3xk",
+  "time": "2024-03-27T18:11:37.421Z",
+  "products": ["Chrome"]
+},{
+  "header": "Chrome",
+  "title": "Посещена страница chatgpt - Поиск в Google",
+  "titleUrl": "https://www.google.com/search?q\u003dchatgpt\u0026oq\u003dchatgpt\u0026aqs\u003dchrome..69i57j0i512l6j5.2730j0j7\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8",
+  "time": "2024-03-27T18:11:32.660Z",
+  "products": ["Chrome"]
+},{
+  "header": "epizod.life",
+  "title": "Посещена страница 🎬 Сериал Ивановы-Ивановы 4 сезон все серии смотреть онлайн бесплатно",
+  "titleUrl": "https://www.google.com/url?q\u003dhttps://epizod.life/10175-ivanovy-ivanovy-4-season.html\u0026usg\u003dAOvVaw2PbSAnkv_N_EYYEH-nYXRz",
+  "time": "2024-03-27T18:11:17.224Z",
+  "products": ["Chrome"]
+}]
